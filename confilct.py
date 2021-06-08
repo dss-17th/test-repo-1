@@ -1,1 +1,1 @@
-print('boolmung_ZZANG')
+print ('camping')
