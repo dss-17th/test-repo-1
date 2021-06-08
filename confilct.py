@@ -1,1 +1,2 @@
-print('boolmung')
+print ('boolmung zzang')
+
